@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @han-Nari
 - 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning Dancing
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me send me a message
 - 😄 Pronouns: i dont know
 - ⚡ Fun fact: There's no fact
