@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me abungan082198@gmail.com
-- I'm looking for a job as a Entry Front-end Developer
 
 <!---
 han-Nari/han-Nari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
