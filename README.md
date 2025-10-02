@@ -43,10 +43,10 @@ I enjoy working with **React, Tailwind CSS, and modern JavaScript** to create cl
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **your-email@gmail.com**  
-- 📱 Phone: **+63 xxx xxx xxxx**  
+- 📧 Email: abungan082198@gmail.com  
+- 📱 Phone: +63-927-827-9557
 - 🌐 Portfolio: [My Website](https://han-nari.github.io/updated-portfolio/)  
-- 💼 Indeed / LinkedIn: *(add your link here)*  
+- 💼 Indeed: https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage  
 - 🐙 GitHub: [han-nari](https://github.com/han-nari)  
 
 ---
