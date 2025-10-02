@@ -3,15 +3,15 @@
 📍 Valenzuela City, Philippines  
 💻 Front-End Developer 
 
-## when I'm Coding
-![Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 ---
 
 ## 🧑‍💻 About Me
 Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in building responsive and user-friendly interfaces with HTML, CSS, and JavaScript. I enjoy turning ideas into interactive experiences using tools like React, Tailwind CSS, Git, and Figma.
 
----
+--- 
+
+## When I'm Coding
+![Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ## 🛠 Tech Stack
 
