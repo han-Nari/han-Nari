@@ -12,7 +12,17 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 
 ## 😂 When I'm Coding...
 
-<img src="https://media.tenor.com/images/867f.../tenor.gif" width="200" title="Coding for 2 hours, syntax error everywhere"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <!-- Typing like crazy -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" title="Me trying to code fast"/>
+
+  <!-- Code not working -->
+  <img src="https://media.giphy.com/media/JSUEuUoBpWQJQ/giphy.gif" width="200" title="When my code throws 100 errors"/>
+
+  <!-- Finally solved -->
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200" title="When I finally fix the bug"/>
+</div>
+
 
 
 ## 🛠 Tech Stack
