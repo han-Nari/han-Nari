@@ -12,16 +12,7 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 
 ## 😂 When I'm Coding...
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <!-- furious typing / energy -->
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="200" title="Coding energy"/>
-
-  <!-- despair when error -->
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="200" title="When code throws errors"/>
-
-  <!-- victory dance -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" title="Finally it works!"/>
-</div>
+ <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 
 
