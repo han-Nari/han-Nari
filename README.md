@@ -40,7 +40,7 @@ Outside of coding, I like to relax and have fun with a mix of games and reading:
 
 - 📖 Reading **Manga & Manhua**  
 - 🎮 Playing **Dota 2** ![Dota 2](https://img.shields.io/badge/Dota%202-cc0000?style=for-the-badge&logo=dota2&logoColor=white)  
-- 🌌 Exploring MMORPGs like **Blue Protocol**  
+- 🌌 Exploring MMORPGs like **Blue Protocol Toram Online**  
 - 🎧 Listening to music & discovering new anime soundtracks  
 
 ---
