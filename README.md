@@ -10,8 +10,14 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 
 --- 
 
-## When I'm Coding
-![Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+## 😂 When I'm Coding...
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" title="When I'm debugging"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" title="When it finally works"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" title="Deploying without bugs (hopefully)"/>
+</div>
+
 
 ## 🛠 Tech Stack
 
