@@ -30,7 +30,7 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 - [Event Hub](https://han-nari.github.io/event-hub/) – React + Tailwind event search app  
 - [Product List with Cart](https://han-nari.github.io/product-list/) – React shopping cart app  
 - [Fylo Landing Page](https://han-nari.github.io/fylo/) – Responsive landing page  
-- [Browser Extension UI](https://han-nari.github.io/browser-extension/) – Simple UI with HTML, CSS, JS  
+- [Training Studio](https://han-nari.github.io/gymTraining/) – React + Tailwind  
 
 ---
 
