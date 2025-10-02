@@ -18,6 +18,7 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 **Tools & Design**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,6 +35,15 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 - [Training Studio](https://han-nari.github.io/gymTraining/) – React + Tailwind  
 
 ---
+
+## 📚 Currently Learning
+- State Management (Redux Toolkit)  
+
+---
+
+## 🛠 Currently Building
+- A **Furniture Website** using **React + Tailwind CSS + Redux Toolkit**  
+
 
 ## 🎮 Hobbies & Interests
 Outside of coding, I like to relax and have fun with a mix of games and reading:
