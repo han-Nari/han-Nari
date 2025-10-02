@@ -6,9 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m a passionate front-end developer who loves building responsive, interactive, and user-friendly web applications.  
-I enjoy working with **React, Tailwind CSS, and modern JavaScript** to create clean and functional designs.  
-
+Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in building responsive and user-friendly interfaces with HTML, CSS, and JavaScript. I enjoy turning ideas into interactive experiences using tools like React, Tailwind CSS, Git, and Figma.
 ---
 
 ## 🛠 Tech Stack
