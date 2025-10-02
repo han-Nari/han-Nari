@@ -3,9 +3,8 @@
 📍 Valenzuela City, Philippines  
 💻 Front-End Developer 
 
-![Funny Meme](./meme.gif)
-
-
+## 😂 Meme Time
+![Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
 
