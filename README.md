@@ -3,14 +3,8 @@
 📍 Valenzuela City, Philippines  
 💻 Front-End Developer 
 
-## 😂 When I'm Coding
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</div>
-
+## when I'm Coding
+![Meme](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ---
 
