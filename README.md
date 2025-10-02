@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Felix Abungan
 
 📍 Valenzuela City, Philippines  
-💻 Front-End Developer | Web Enthusiast  
+💻 Front-End Developer 
 
 ---
 
