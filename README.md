@@ -7,6 +7,7 @@
 
 ## 🧑‍💻 About Me
 Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in building responsive and user-friendly interfaces with HTML, CSS, and JavaScript. I enjoy turning ideas into interactive experiences using tools like React, Tailwind CSS, Git, and Figma.
+
 ---
 
 ## 🛠 Tech Stack
@@ -34,6 +35,16 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 
 ---
 
+## 🎮 Hobbies & Interests
+Outside of coding, I like to relax and have fun with a mix of games and reading:
+
+- 📖 Reading **Manga & Manhua**  
+- 🎮 Playing **Dota 2** ![Dota 2](https://img.shields.io/badge/Dota%202-cc0000?style=for-the-badge&logo=dota2&logoColor=white)  
+- 🌌 Exploring MMORPGs like **Blue Protocol**  
+- 🎧 Listening to music & discovering new anime soundtracks  
+
+---
+
 ## 📊 GitHub Stats
 ![han-nari's GitHub stats](https://github-readme-stats.vercel.app/api?username=han-nari&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-nari&layout=compact&theme=radical)
@@ -41,10 +52,10 @@ Hi, I’m Felix, a front-end developer based in Valenzuela City. I specialize in
 ---
 
 ## 📫 Contact Me
-- 📧 Email: abungan082198@gmail.com  
-- 📱 Phone: +63-927-827-9557
+- 📧 Email: **abungan082198@gmail.com**  
+- 📱 Phone: **+63-927-827-9557**  
 - 🌐 Portfolio: [My Website](https://han-nari.github.io/updated-portfolio/)  
-- 💼 Indeed: https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage  
+- 💼 Indeed: [My Profile](https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage)  
 - 🐙 GitHub: [han-nari](https://github.com/han-nari)  
 
 ---
